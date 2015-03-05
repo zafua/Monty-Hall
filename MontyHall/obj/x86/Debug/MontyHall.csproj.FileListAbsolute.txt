@@ -1,0 +1,8 @@
+c:\users\zafer\documents\visual studio 2010\Projects\MontyHall\MontyHall\bin\Debug\MontyHall.exe
+c:\users\zafer\documents\visual studio 2010\Projects\MontyHall\MontyHall\bin\Debug\MontyHall.pdb
+c:\users\zafer\documents\visual studio 2010\Projects\MontyHall\MontyHall\obj\x86\Debug\MontyHall.exe
+c:\users\zafer\documents\visual studio 2010\Projects\MontyHall\MontyHall\obj\x86\Debug\MontyHall.pdb
+c:\users\zafer\documents\visual studio 2010\Projects\MontyHall\MontyHall\bin\Debug\MontyHall.exe.manifest
+c:\users\zafer\documents\visual studio 2010\Projects\MontyHall\MontyHall\bin\Debug\MontyHall.application
+c:\users\zafer\documents\visual studio 2010\Projects\MontyHall\MontyHall\obj\x86\Debug\MontyHall.exe.manifest
+c:\users\zafer\documents\visual studio 2010\Projects\MontyHall\MontyHall\obj\x86\Debug\MontyHall.application
